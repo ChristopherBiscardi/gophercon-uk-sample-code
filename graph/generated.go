@@ -7,7 +7,7 @@ import (
 	context "context"
 	strconv "strconv"
 
-	model "github.com/christopherbiscardi/gophercon-uk/model"
+	model "github.com/christopherbiscardi/gophercon-uk-sample-code/model"
 	graphql "github.com/vektah/gqlgen/graphql"
 	introspection "github.com/vektah/gqlgen/neelance/introspection"
 	query "github.com/vektah/gqlgen/neelance/query"

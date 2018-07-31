@@ -6,6 +6,6 @@ model:
 
 models:
   Todo:
-    model: github.com/christopherbiscardi/gophercon-uk/model.Todo
+    model: github.com/christopherbiscardi/gophercon-uk-sample-code/model.Todo
   User:
-    model: github.com/christopherbiscardi/gophercon-uk/model.User
+    model: github.com/christopherbiscardi/gophercon-uk-sample-code/model.User

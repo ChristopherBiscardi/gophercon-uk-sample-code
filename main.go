@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/christopherbiscardi/gophercon-uk/graph"
+	"github.com/christopherbiscardi/gophercon-uk-sample-code/graph"
 	"github.com/vektah/gqlgen/handler"
 )
 

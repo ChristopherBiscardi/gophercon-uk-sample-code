@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/rand"
 
-        "github.com/christopherbiscardi/gophercon-uk/model"
+        "github.com/christopherbiscardi/gophercon-uk-sample-code/model"
 )
 
 type App struct {
